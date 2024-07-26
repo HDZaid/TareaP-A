@@ -1,0 +1,15 @@
+C:\Users\henry\source\repos\TareaFunciones\TareaFunciones\bin\Debug\net8.0\TareaFunciones.exe
+C:\Users\henry\source\repos\TareaFunciones\TareaFunciones\bin\Debug\net8.0\TareaFunciones.deps.json
+C:\Users\henry\source\repos\TareaFunciones\TareaFunciones\bin\Debug\net8.0\TareaFunciones.runtimeconfig.json
+C:\Users\henry\source\repos\TareaFunciones\TareaFunciones\bin\Debug\net8.0\TareaFunciones.dll
+C:\Users\henry\source\repos\TareaFunciones\TareaFunciones\bin\Debug\net8.0\TareaFunciones.pdb
+C:\Users\henry\source\repos\TareaFunciones\TareaFunciones\obj\Debug\net8.0\TareaFunciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\TareaFunciones\TareaFunciones\obj\Debug\net8.0\TareaFunciones.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\TareaFunciones\TareaFunciones\obj\Debug\net8.0\TareaFunciones.AssemblyInfo.cs
+C:\Users\henry\source\repos\TareaFunciones\TareaFunciones\obj\Debug\net8.0\TareaFunciones.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\TareaFunciones\TareaFunciones\obj\Debug\net8.0\TareaFunciones.sourcelink.json
+C:\Users\henry\source\repos\TareaFunciones\TareaFunciones\obj\Debug\net8.0\TareaFunciones.dll
+C:\Users\henry\source\repos\TareaFunciones\TareaFunciones\obj\Debug\net8.0\refint\TareaFunciones.dll
+C:\Users\henry\source\repos\TareaFunciones\TareaFunciones\obj\Debug\net8.0\TareaFunciones.pdb
+C:\Users\henry\source\repos\TareaFunciones\TareaFunciones\obj\Debug\net8.0\TareaFunciones.genruntimeconfig.cache
+C:\Users\henry\source\repos\TareaFunciones\TareaFunciones\obj\Debug\net8.0\ref\TareaFunciones.dll
