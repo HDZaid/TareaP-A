@@ -60,7 +60,7 @@ public class Program
             }
 
         } while (opcion != 6);
-        Console.WriteLine("Justo Geovanny Alcon Mendoza, 1578324");
+        Console.WriteLine("Henry Daniel Díaz Corado 2455724");
         Console.ReadLine();
     }
     static void ImprimirMenu()
