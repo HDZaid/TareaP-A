@@ -1,0 +1,15 @@
+C:\Users\henry\source\repos\FuncionesPOO\FuncionesPOO\bin\Debug\net8.0\FuncionesPOO.exe
+C:\Users\henry\source\repos\FuncionesPOO\FuncionesPOO\bin\Debug\net8.0\FuncionesPOO.deps.json
+C:\Users\henry\source\repos\FuncionesPOO\FuncionesPOO\bin\Debug\net8.0\FuncionesPOO.runtimeconfig.json
+C:\Users\henry\source\repos\FuncionesPOO\FuncionesPOO\bin\Debug\net8.0\FuncionesPOO.dll
+C:\Users\henry\source\repos\FuncionesPOO\FuncionesPOO\bin\Debug\net8.0\FuncionesPOO.pdb
+C:\Users\henry\source\repos\FuncionesPOO\FuncionesPOO\obj\Debug\net8.0\FuncionesPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\FuncionesPOO\FuncionesPOO\obj\Debug\net8.0\FuncionesPOO.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\FuncionesPOO\FuncionesPOO\obj\Debug\net8.0\FuncionesPOO.AssemblyInfo.cs
+C:\Users\henry\source\repos\FuncionesPOO\FuncionesPOO\obj\Debug\net8.0\FuncionesPOO.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\FuncionesPOO\FuncionesPOO\obj\Debug\net8.0\FuncionesPOO.sourcelink.json
+C:\Users\henry\source\repos\FuncionesPOO\FuncionesPOO\obj\Debug\net8.0\FuncionesPOO.dll
+C:\Users\henry\source\repos\FuncionesPOO\FuncionesPOO\obj\Debug\net8.0\refint\FuncionesPOO.dll
+C:\Users\henry\source\repos\FuncionesPOO\FuncionesPOO\obj\Debug\net8.0\FuncionesPOO.pdb
+C:\Users\henry\source\repos\FuncionesPOO\FuncionesPOO\obj\Debug\net8.0\FuncionesPOO.genruntimeconfig.cache
+C:\Users\henry\source\repos\FuncionesPOO\FuncionesPOO\obj\Debug\net8.0\ref\FuncionesPOO.dll
