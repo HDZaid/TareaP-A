@@ -1,0 +1,15 @@
+C:\Users\henry\source\repos\GestorTiendaPOO\GestorTiendaPOO\bin\Debug\net8.0\GestorTiendaPOO.exe
+C:\Users\henry\source\repos\GestorTiendaPOO\GestorTiendaPOO\bin\Debug\net8.0\GestorTiendaPOO.deps.json
+C:\Users\henry\source\repos\GestorTiendaPOO\GestorTiendaPOO\bin\Debug\net8.0\GestorTiendaPOO.runtimeconfig.json
+C:\Users\henry\source\repos\GestorTiendaPOO\GestorTiendaPOO\bin\Debug\net8.0\GestorTiendaPOO.dll
+C:\Users\henry\source\repos\GestorTiendaPOO\GestorTiendaPOO\bin\Debug\net8.0\GestorTiendaPOO.pdb
+C:\Users\henry\source\repos\GestorTiendaPOO\GestorTiendaPOO\obj\Debug\net8.0\GestorTiendaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\GestorTiendaPOO\GestorTiendaPOO\obj\Debug\net8.0\GestorTiendaPOO.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\GestorTiendaPOO\GestorTiendaPOO\obj\Debug\net8.0\GestorTiendaPOO.AssemblyInfo.cs
+C:\Users\henry\source\repos\GestorTiendaPOO\GestorTiendaPOO\obj\Debug\net8.0\GestorTiendaPOO.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\GestorTiendaPOO\GestorTiendaPOO\obj\Debug\net8.0\GestorTiendaPOO.sourcelink.json
+C:\Users\henry\source\repos\GestorTiendaPOO\GestorTiendaPOO\obj\Debug\net8.0\GestorTiendaPOO.dll
+C:\Users\henry\source\repos\GestorTiendaPOO\GestorTiendaPOO\obj\Debug\net8.0\refint\GestorTiendaPOO.dll
+C:\Users\henry\source\repos\GestorTiendaPOO\GestorTiendaPOO\obj\Debug\net8.0\GestorTiendaPOO.pdb
+C:\Users\henry\source\repos\GestorTiendaPOO\GestorTiendaPOO\obj\Debug\net8.0\GestorTiendaPOO.genruntimeconfig.cache
+C:\Users\henry\source\repos\GestorTiendaPOO\GestorTiendaPOO\obj\Debug\net8.0\ref\GestorTiendaPOO.dll
