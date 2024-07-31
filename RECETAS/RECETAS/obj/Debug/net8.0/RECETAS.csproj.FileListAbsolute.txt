@@ -1,0 +1,15 @@
+C:\Users\henry\source\repos\RECETAS\RECETAS\bin\Debug\net8.0\RECETAS.exe
+C:\Users\henry\source\repos\RECETAS\RECETAS\bin\Debug\net8.0\RECETAS.deps.json
+C:\Users\henry\source\repos\RECETAS\RECETAS\bin\Debug\net8.0\RECETAS.runtimeconfig.json
+C:\Users\henry\source\repos\RECETAS\RECETAS\bin\Debug\net8.0\RECETAS.dll
+C:\Users\henry\source\repos\RECETAS\RECETAS\bin\Debug\net8.0\RECETAS.pdb
+C:\Users\henry\source\repos\RECETAS\RECETAS\obj\Debug\net8.0\RECETAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\RECETAS\RECETAS\obj\Debug\net8.0\RECETAS.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\RECETAS\RECETAS\obj\Debug\net8.0\RECETAS.AssemblyInfo.cs
+C:\Users\henry\source\repos\RECETAS\RECETAS\obj\Debug\net8.0\RECETAS.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\RECETAS\RECETAS\obj\Debug\net8.0\RECETAS.sourcelink.json
+C:\Users\henry\source\repos\RECETAS\RECETAS\obj\Debug\net8.0\RECETAS.dll
+C:\Users\henry\source\repos\RECETAS\RECETAS\obj\Debug\net8.0\refint\RECETAS.dll
+C:\Users\henry\source\repos\RECETAS\RECETAS\obj\Debug\net8.0\RECETAS.pdb
+C:\Users\henry\source\repos\RECETAS\RECETAS\obj\Debug\net8.0\RECETAS.genruntimeconfig.cache
+C:\Users\henry\source\repos\RECETAS\RECETAS\obj\Debug\net8.0\ref\RECETAS.dll
