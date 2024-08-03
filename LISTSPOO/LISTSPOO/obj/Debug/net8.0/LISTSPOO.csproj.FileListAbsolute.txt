@@ -1,0 +1,15 @@
+C:\Users\henry\source\repos\LISTSPOO\LISTSPOO\bin\Debug\net8.0\LISTSPOO.exe
+C:\Users\henry\source\repos\LISTSPOO\LISTSPOO\bin\Debug\net8.0\LISTSPOO.deps.json
+C:\Users\henry\source\repos\LISTSPOO\LISTSPOO\bin\Debug\net8.0\LISTSPOO.runtimeconfig.json
+C:\Users\henry\source\repos\LISTSPOO\LISTSPOO\bin\Debug\net8.0\LISTSPOO.dll
+C:\Users\henry\source\repos\LISTSPOO\LISTSPOO\bin\Debug\net8.0\LISTSPOO.pdb
+C:\Users\henry\source\repos\LISTSPOO\LISTSPOO\obj\Debug\net8.0\LISTSPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\LISTSPOO\LISTSPOO\obj\Debug\net8.0\LISTSPOO.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\LISTSPOO\LISTSPOO\obj\Debug\net8.0\LISTSPOO.AssemblyInfo.cs
+C:\Users\henry\source\repos\LISTSPOO\LISTSPOO\obj\Debug\net8.0\LISTSPOO.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\LISTSPOO\LISTSPOO\obj\Debug\net8.0\LISTSPOO.sourcelink.json
+C:\Users\henry\source\repos\LISTSPOO\LISTSPOO\obj\Debug\net8.0\LISTSPOO.dll
+C:\Users\henry\source\repos\LISTSPOO\LISTSPOO\obj\Debug\net8.0\refint\LISTSPOO.dll
+C:\Users\henry\source\repos\LISTSPOO\LISTSPOO\obj\Debug\net8.0\LISTSPOO.pdb
+C:\Users\henry\source\repos\LISTSPOO\LISTSPOO\obj\Debug\net8.0\LISTSPOO.genruntimeconfig.cache
+C:\Users\henry\source\repos\LISTSPOO\LISTSPOO\obj\Debug\net8.0\ref\LISTSPOO.dll
