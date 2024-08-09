@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,14 +13,17 @@ namespace HOTEL
         public bool Disponible { get; set; }
         public string NombreCliente { get; set; }
 
+
         public void MostrarInformacion()
         {
+            Console.WriteLine("INFORMACION GENERAL DE LA HABITACION");
             Console.WriteLine($"Numero de Habitacion: {NumeroHabitacion}");
             Console.WriteLine($"Precio de Habitacion: {PrecioPorNoche}");
             Console.WriteLine($"Habitacion Disponible: {Disponible}");
-            if (Disponible = true)
+       
+            if (Disponible == false)
             {
-                Console.WriteLine($"Numero de Habitacion: {NombreCliente}");
+                Console.WriteLine($"Nombre del cliente: {NombreCliente}");
             }
         }
         public void PedirInformacionDeHabitacion()
@@ -35,7 +38,7 @@ namespace HOTEL
 
         public void MostraDisponibilidad()
         {
-            if (Disponible = true)
+            if (Disponible == true)
             {
                 Console.WriteLine("LA HABITACION ESTA DISPOBIBLE");
             }
@@ -45,13 +48,12 @@ namespace HOTEL
             }
         }
 
-        public void AsignarCliente()
+        public void AsignarCliente(string NombreCliente1)
         {
-            Console.WriteLine("NOMBRE DEL CLIENTE");
-            NombreCliente = Console.ReadLine();
+            NombreCliente = NombreCliente1;
             Disponible = false;
         }
-        public void LiberarAsignacion()
+        public void LiberarAsignacion(string NombreCliente2)
         {
             Console.WriteLine("");
             Disponible = true;
