@@ -9,16 +9,20 @@ namespace HOTEL
     internal class HabitacionSimple : Habitacion
     {
         public int NumeroCamas { get; set; }
-        public void ModificarNumeroCamas() 
+        public void MostrarInformacionHabitacionSimple() 
         {
             base.MostrarInformacion();
-            Console.WriteLine("");
+            Console.WriteLine($"El numero de camas en la habitacion es de:{NumeroCamas}");
         }
-        public void pedirNumeroCamas() 
+        public void pedirDatosHabitacionSimple() 
         {
+            base.PedirInformacionDeHabitacion();
             Console.WriteLine("CUANTAS CAMAS HAY?");
             NumeroCamas = Convert.ToInt32(Console.ReadLine());
         }
 
+
+
     }
 }
+
