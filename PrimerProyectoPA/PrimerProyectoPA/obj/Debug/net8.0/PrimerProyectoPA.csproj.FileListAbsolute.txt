@@ -1,0 +1,15 @@
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\PrimerProyectoPA\PrimerProyectoPA\bin\Debug\net8.0\PrimerProyectoPA.exe
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\PrimerProyectoPA\PrimerProyectoPA\bin\Debug\net8.0\PrimerProyectoPA.deps.json
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\PrimerProyectoPA\PrimerProyectoPA\bin\Debug\net8.0\PrimerProyectoPA.runtimeconfig.json
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\PrimerProyectoPA\PrimerProyectoPA\bin\Debug\net8.0\PrimerProyectoPA.dll
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\PrimerProyectoPA\PrimerProyectoPA\bin\Debug\net8.0\PrimerProyectoPA.pdb
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\PrimerProyectoPA\PrimerProyectoPA\obj\Debug\net8.0\PrimerProyectoPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\PrimerProyectoPA\PrimerProyectoPA\obj\Debug\net8.0\PrimerProyectoPA.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\PrimerProyectoPA\PrimerProyectoPA\obj\Debug\net8.0\PrimerProyectoPA.AssemblyInfo.cs
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\PrimerProyectoPA\PrimerProyectoPA\obj\Debug\net8.0\PrimerProyectoPA.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\PrimerProyectoPA\PrimerProyectoPA\obj\Debug\net8.0\PrimerProyectoPA.sourcelink.json
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\PrimerProyectoPA\PrimerProyectoPA\obj\Debug\net8.0\PrimerProyectoPA.dll
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\PrimerProyectoPA\PrimerProyectoPA\obj\Debug\net8.0\refint\PrimerProyectoPA.dll
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\PrimerProyectoPA\PrimerProyectoPA\obj\Debug\net8.0\PrimerProyectoPA.pdb
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\PrimerProyectoPA\PrimerProyectoPA\obj\Debug\net8.0\PrimerProyectoPA.genruntimeconfig.cache
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\PrimerProyectoPA\PrimerProyectoPA\obj\Debug\net8.0\ref\PrimerProyectoPA.dll
