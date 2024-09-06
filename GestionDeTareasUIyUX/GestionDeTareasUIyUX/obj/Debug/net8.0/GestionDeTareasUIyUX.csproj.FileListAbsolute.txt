@@ -1,0 +1,15 @@
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\GestionDeTareasUIyUX\GestionDeTareasUIyUX\bin\Debug\net8.0\GestionDeTareasUIyUX.exe
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\GestionDeTareasUIyUX\GestionDeTareasUIyUX\bin\Debug\net8.0\GestionDeTareasUIyUX.deps.json
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\GestionDeTareasUIyUX\GestionDeTareasUIyUX\bin\Debug\net8.0\GestionDeTareasUIyUX.runtimeconfig.json
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\GestionDeTareasUIyUX\GestionDeTareasUIyUX\bin\Debug\net8.0\GestionDeTareasUIyUX.dll
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\GestionDeTareasUIyUX\GestionDeTareasUIyUX\bin\Debug\net8.0\GestionDeTareasUIyUX.pdb
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\GestionDeTareasUIyUX\GestionDeTareasUIyUX\obj\Debug\net8.0\GestionDeTareasUIyUX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\GestionDeTareasUIyUX\GestionDeTareasUIyUX\obj\Debug\net8.0\GestionDeTareasUIyUX.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\GestionDeTareasUIyUX\GestionDeTareasUIyUX\obj\Debug\net8.0\GestionDeTareasUIyUX.AssemblyInfo.cs
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\GestionDeTareasUIyUX\GestionDeTareasUIyUX\obj\Debug\net8.0\GestionDeTareasUIyUX.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\GestionDeTareasUIyUX\GestionDeTareasUIyUX\obj\Debug\net8.0\GestionDeTareasUIyUX.sourcelink.json
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\GestionDeTareasUIyUX\GestionDeTareasUIyUX\obj\Debug\net8.0\GestionDeTareasUIyUX.dll
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\GestionDeTareasUIyUX\GestionDeTareasUIyUX\obj\Debug\net8.0\refint\GestionDeTareasUIyUX.dll
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\GestionDeTareasUIyUX\GestionDeTareasUIyUX\obj\Debug\net8.0\GestionDeTareasUIyUX.pdb
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\GestionDeTareasUIyUX\GestionDeTareasUIyUX\obj\Debug\net8.0\GestionDeTareasUIyUX.genruntimeconfig.cache
+C:\Users\henry\source\repos\HDZaid\EXAMEN-\GestionDeTareasUIyUX\GestionDeTareasUIyUX\obj\Debug\net8.0\ref\GestionDeTareasUIyUX.dll
